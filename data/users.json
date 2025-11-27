@@ -1,0 +1,20 @@
+{
+    "alice": {
+        "password_hash": "f9a7fe5ffc453516e8ce7483d92789321f97d4cc4a170b5a11c4740a837a3f7f",
+        "balance": 1300.0,
+        "active_session": false,
+        "created_at": "2025-11-25T09:28:06.501391"
+    },
+    "bob": {
+        "password_hash": "5d815ee927221df4f7faf71934f020346fd2b0362b5440595ed681d39b4c3b67",
+        "balance": 1000.0,
+        "active_session": false,
+        "created_at": "2025-11-25T09:28:07.206476"
+    },
+    "charlie": {
+        "password_hash": "ff758be6a5be4d87d438c19fd9309bd0269cfdc4e8dcd16d63a00348e1aadb25",
+        "balance": 1250.0,
+        "active_session": false,
+        "created_at": "2025-11-25T09:28:07.911586"
+    }
+}
